@@ -13,4 +13,13 @@ This repo is created for second lab assignment of web apps.<br>
 * Pot chicken
 * Flavored Rice
 
+[MyStats](MyStats.md)
+
+---
+|Name of the sports | Reson| Hours in a week|
+|------|----|-----|
+|Cricket|increses the fit ness| 5-8 hours|
+|Hockey|Hockey is a team sport that fosters collaboration|5-6|
+|Football| Football is a team sport ,players will develop a wide range of skills|7-8|
+|kabbadi| Kabbadi is a sport orginated in Bharat|4-5|
 
