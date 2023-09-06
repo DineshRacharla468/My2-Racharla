@@ -28,3 +28,24 @@ This repo is created for second lab assignment of web apps.<br>
 >Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. - *Albert Einstein*
 
 >The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself. *Carl Sagan*
+
+---
+## Code Fencing
+
+[Exponentiation in Sass](https://stackoverflow.com/questions/9549525/exponentiation-in-sass)
+
+~~~
+@function pow($number, $exponent) {
+  $value: 1;
+
+  @if $exponent > 0 {
+    @for $i from 1 through $exponent {
+      $value: $value * $number;
+    }
+  }
+
+  @return $value;
+}
+~~~
+
+[code snippet](https://css-tricks.com/snippets/sass/power-function/)
