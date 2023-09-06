@@ -23,3 +23,8 @@ This repo is created for second lab assignment of web apps.<br>
 |Football| Football is a team sport ,players will develop a wide range of skills|7-8|
 |kabbadi| Kabbadi is a sport orginated in Bharat|4-5|
 
+---
+## Quotes by renowned scientists
+>Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. - *Albert Einstein*
+
+>The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself. *Carl Sagan*
